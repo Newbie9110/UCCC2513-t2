@@ -1,0 +1,15 @@
+1
+basic syntax
+custom function
+data types
+data structure numpy modules
+2custom functions
+
+data types
+floating point numbers
+int
+string
+boolean
+complex number
+
+List tuple
